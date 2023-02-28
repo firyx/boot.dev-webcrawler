@@ -1,0 +1,15 @@
+{
+  "name": "boot.dev-webcrawler",
+  "version": "1.0.0",
+  "description": "Webcrawler project from Boot.dev course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
